@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1085201917932-l8pdk724re7eddsuo86k8d03j07remj8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1085201917932-l8pdk724re7eddsuo86k8d03j07remj8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1085201917932-iiite0sho82c751ukd3g1pj0aqvhlf29.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCBCKDflQLs3Rym7v7h7vijVRIEKSq4Gis</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1085201917932</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ifoodSellerApp</string>
+	<key>PROJECT_ID</key>
+	<string>foodpanda-clone-app-13715</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodpanda-clone-app-13715.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1085201917932:ios:b18d2021047df2848382c9</string>
+</dict>
+</plist>
